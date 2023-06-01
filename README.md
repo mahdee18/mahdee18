@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdee18&label=Profile%20views&color=0e75b6&style=flat" alt="mahdee18" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Native React**
-
-- 💬 Ask me about **React,JavaScript as well.**
+- 🌱 I’m currently learning **MERN stack Development**
 
 - 📫 How to reach me **mahdeec12@gmail.com**
 
