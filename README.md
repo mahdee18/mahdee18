@@ -1,9 +1,7 @@
 # Mahdee Al Amin
 
 **Frontend Developer (JavaScript)**  
-📍 Sylhet, Bangladesh  
-📞 +8801709903362  
-✉️ mahdee.contact@gmail.com  
+📍 Sylhet, Bangladesh | 📞 +8801709903362 | ✉️ [mahdee.contact@gmail.com](mailto:mahdee.contact@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/mahdee-al-amin) | [GitHub](https://github.com/yourusername) | [Portfolio](https://yourportfolio.com)
 
 ---
