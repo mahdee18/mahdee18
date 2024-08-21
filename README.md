@@ -1,26 +1,114 @@
-<h1 align="center">Hi 👋, I'm Mahdee Al Amin</h1>
-<h3 align="center">I am professional Web Developer, from Bnagladesh :)</h3>
+# Mahdee Al Amin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdee18&label=Profile%20views&color=0e75b6&style=flat" alt="mahdee18" /> </p>
+**Frontend Developer (JavaScript)**  
+📍 Sylhet, Bangladesh  
+📞 +8801709903362  
+✉️ mahdee.contact@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/mahdee-al-amin) | [GitHub](https://github.com/yourusername) | [Portfolio](https://yourportfolio.com)
 
-- 🌱 I’m currently learning **MERN stack Development**
+---
 
-- 📫 How to reach me **mahdeec12@gmail.com**
+## Skills & Abilities
 
-- ⚡ Fun fact **I'm Passionate about learning :3**
+### Front-end
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Tailwind CSS
+- React Bootstrap
+- React Router
+- AOS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahdeeal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdeeal" height="30" width="40" /></a>
-<a href="https://fb.com/mahddee.al.amin.09y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahddee.al.amin.09y" height="30" width="40" /></a>
-<a href="https://instagram.com/mahdee_al_amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdee_al_amin" height="30" width="40" /></a>
-</p>
+### Back-end
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- RESTful APIs
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Miscellaneous
+- Next.js
+- JWT
+- Tanstack Query
+- Redux
+- Axios
+- MUI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdee18&show_icons=true&locale=en&layout=compact" alt="mahdee18" /></p>
+### Tools & Technologies
+- VS Code
+- Git/GitHub
+- Vercel
+- Netlify
+- Figma
+- Chrome Dev Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdee18&show_icons=true&locale=en" alt="mahdee18" /></p>
+### Interpersonal Skills
+- Effective Communicator & Collaborator
+- Time Management Ability
+- Quick Learner and Adaptable
+- Team Player
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdee18&" alt="mahdee18" /></p>
+---
+
+## Professional Experience
+
+**Full Stack Developer**  
+*Coding Symmetry - Texas, USA*  
+*Sept 2023 - Present*
+- Developed and maintained web applications using MERN stack and Firebase.
+- Specialized in JavaScript, React, Node.js, and MongoDB.
+- Created interactive designs and prototypes with Framer CMS.
+
+---
+
+## Projects
+
+### 1. [Nexus Bank Ltd. - Team Project (Banking Web Application)](https://nexusbank.example.com)  
+[Client Repository](https://github.com/yourusername/nexus-bank-client) | [Server Repository](https://github.com/yourusername/nexus-bank-server)  
+**My Contributions:**
+- Designed and implemented admin panel user dashboard, loan apply page, and loan management system.
+- Developed e-statements, PIN verification page, payment success page, and Bkash fund transfer form.
+- Integrated career page with backend.  
+**Technologies:** React JS, Tailwind CSS, MUI, Redux, Node JS, Express JS, MongoDB
+
+### 2. [Capture Academy (Course Selling Project)](https://captureacademy.example.com)  
+[Client Repository](https://github.com/yourusername/capture-academy-client) | [Server Repository](https://github.com/yourusername/capture-academy-server)  
+**Key Features:**
+- Students can select, pay for, and enroll in courses and view payment history in the dashboard.
+- Instructors can add classes, manage enrollments, and receive feedback.
+- Admin can manage users, approve classes, and provide feedback to instructors.  
+**Technologies:** Tailwind CSS, Daisy UI, React.js, JWT, Tanstack Query, Axios, Express JS, Firebase, MongoDB
+
+### 3. [Royal Rent - Team Project (Car Rental Web Application)](https://royalrent.example.com)  
+[Client Repository](https://github.com/yourusername/royal-rent-client) | [Server Repository](https://github.com/yourusername/royal-rent-server)  
+**My Contributions:**
+- Developed a role-based dashboard with user authentication using Firebase.
+- Implemented contact and blog pages, leveraging Express.js for the backend.
+- Contributed to team project with effective teamwork and project management skills.  
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Firebase, Stripe Payment Integration, Tailwind CSS
+
+---
+
+## Professional Certifications
+
+- **Complete Web Development Course** – Programming Hero (Jan 2023 - Jun 2023)  
+- **Responsive Web Design** – Creative IT (Jan 2021 - Aug 2021)
+
+---
+
+## Education
+
+- **Bachelor of Engineering (Computer Science & Engineering)**  
+  Metropolitan University, Sylhet, Bangladesh | 2024 - Present
+
+- **Diploma in Engineering (Computer Science & Technology)**  
+  Moulvibazar Polytechnic Institute | 2019 - 2023  
+  CGPA: 3.60 out of 4
+
+---
+
+## Languages
+
+- Bangla (Native)
+- English (Fluent)
