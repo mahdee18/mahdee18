@@ -1,54 +1,22 @@
 # Mahdee Al Amin
 
 **Full Stack Developer (MERN)**  
-📍 Sylhet, Bangladesh | 📞 +8801709903362 (WhatsApp) | [mahdee.contact@gmail.com](mailto:mahdee.contact@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahdee-al-amin/) | [GitHub](https://github.com/mahdee18) | [Portfolio](https://mahdee-al-amin.vercel.app/)
+📍 Sylhet, Bangladesh | 📞 +8801709903362 (WhatsApp) |  
+[mahdee.contact@gmail.com](mailto:mahdee.contact@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahdee-al-amin/) | [GitHub](https://github.com/mahdee18) | [Portfolio](https://mahdee-al-amin.vercel.app/)
 
 ---
 
-## **Skills & Abilities**
+## Skills & Abilities
 
-### **Front-end**
-- React.js
-- JavaScript (ES6)
-- HTML5
-- CSS3
-- Tailwind CSS
-- React Bootstrap
-- React Router
-- AOS
-
-### **Back-end**
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
-- RESTful APIs
-
-### **Miscellaneous**
-- Next.js
-- JWT
-- Tanstack Query
-- Redux
-- Axios
-- MUI
-
-### **Tools & Technologies**
-- VS Code
-- Git/GitHub
-- Vercel
-- Netlify
-- Figma
-- Chrome Dev Tools
-
-### **Interpersonal Skills**
-- Effective Communicator & Collaborator
-- Time Management Ability
-- Quick Learner and Adaptable
-- Team Player
+**Front-end:** React.js, JavaScript (ES6), HTML5, CSS3, Tailwind CSS, React Bootstrap, React Router, AOS  
+**Back-end:** Node.js, Express.js, MongoDB, Firebase, RESTful APIs  
+**Miscellaneous:** Next.js, JWT, Tanstack Query, Redux, Axios, MUI  
+**Tools & Technologies:** VS Code, Git/GitHub, Vercel, Netlify, Figma, Chrome Dev Tools  
+**Interpersonal Skills:** Effective Communicator & Collaborator, Time Management Ability, Quick Learner and Adaptable, Team Player
 
 ---
 
-## **Professional Experience**
+## Professional Experience
 
 **Full Stack Developer**  
 *Coding Symmetry - Texas, USA*  
@@ -59,14 +27,14 @@
 
 ---
 
-## **Professional Certifications**
+## Professional Certifications
 
 - **Complete Web Development Course** – Programming Hero (Jan 2023 - Jun 2023)  
 - **Responsive Web Design** – Creative IT (Jan 2021 - Aug 2021)
 
 ---
 
-## **Education**
+## Education
 
 - **Bachelor of Engineering (Computer Science & Engineering)**  
   Metropolitan University, Sylhet, Bangladesh | 2024 - Present
@@ -77,7 +45,7 @@
 
 ---
 
-## **Languages**
+## Languages
 
 - Bangla (Native)
 - English (Fluent)
